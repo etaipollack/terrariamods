@@ -1,0 +1,7 @@
+Pylon NPC is a mod that adds an NPC that allows you to buy a potion to teleport to different biomes in your world. It also allows you to buy a teleporter and key to telelport to anywhere where the teleporters are placed, kind of like the pylon system in 1.4.
+
+The NPC spawns after you defeat the Eye of Cthulu.
+
+You need AlchemistNPCLite for the potions and/or PreHMTeleportation for the teleporters.
+
+All of the credit goes to the creators of PreHMTeleportation and AlchemistNPCLite

@@ -1,0 +1,3 @@
+displayName = Pylon NPC
+author = Taiphoon
+version = 1.0

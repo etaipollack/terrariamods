@@ -1,0 +1,3 @@
+displayName = Taiphoon's Content Mod
+author = Taiphoon
+version = 0.3

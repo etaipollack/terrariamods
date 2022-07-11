@@ -1,0 +1,5 @@
+Calamity Music: Planetoids & Abyss Miniboss a mod that adds scrapped music for the planetoids and the Eidolon Wyrm.
+
+This is a mod of another mod, Calamity: The Lost Themes. All it does is remove the 3 boss themes that were not, in my opinion, "lost" as they have since been added to a mod called Turquoise's Music Replacements.
+
+All the credit goes to DM Dokuro, the creator of these themes, and EmissaryOfInfinity for working on Calamity: The Lost Themes. All I did was add a config to turn these themes on and off and remove Turquoise's themes.
